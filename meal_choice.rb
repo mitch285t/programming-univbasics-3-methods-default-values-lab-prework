@@ -1,1 +1,0 @@
-https://learn.co/tracks/fswd-prework-2-0/cli-essentials/programming-as-conversation-part-3-bundling-expressions-and-statements-into-methods/default-method-values-lab#
